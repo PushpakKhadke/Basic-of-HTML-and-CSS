@@ -12,7 +12,7 @@ Time : 20 min
 * CSS
 <br>
 
-### My Solution Link : <a href="https://beautiful-peony-f9fd90.netlify.app/" target="_blank"> Website Link</a>
+### My Solution Link : <a href="https://marvelous-beignet-8c2d78.netlify.app/" target="_blank"> Website Link</a>
 <br>
 
 ### ScreenShot:
