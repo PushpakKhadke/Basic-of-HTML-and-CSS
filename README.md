@@ -1,5 +1,5 @@
 # Basic of HTML and CSS
-In this course i am learning Basic of HTML and CSS and creating following 4 basic Projects
+In this course i am learning Basic of HTML and CSS and creating following 4 basic Projects.
 
 ### Project 1 ( Landing Page ) : <a href="https://github.com/PushpakKhadke/Basic-of-HTML-and-CSS/tree/main/Basic%20of%20HTML%20and%20CSS/03_Landing">Link</a>
 <h1><img src="https://github.com/PushpakKhadke/Basic-of-HTML-and-CSS/blob/main/Basic%20of%20HTML%20and%20CSS/03_Landing/Output.png" alt="Landing Page"></h1>
