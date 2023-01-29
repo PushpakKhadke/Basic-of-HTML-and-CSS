@@ -1,25 +1,17 @@
-# Basic HTML and CSS ( Project 1 )
-### 💻 Website name : `Landing Page`
-<br>
-In this project, I create Simple Landing Page using Basic of HTML and CSS.
+# Project 01 ( Landing Page )
+[Live-In-Production Demo](https://marvelous-beignet-8c2d78.netlify.app/)_________________________________________ _Individual Project | Duration: 1-2 hours_ <br>
+- In this project i create simple landing page using pure HTML and CSS.
 
-Time : 20 min
-<br>
-<br>
+## 👨‍💻 Tech Stack
+Tech : `HTML` `CSS` <br>
 
-### 👨‍💻 Tech Stack:
-* HTML
-* CSS
-<br>
+Tools : `VS Code`
 
-### My Solution Link : <a href="https://marvelous-beignet-8c2d78.netlify.app/" target="_blank"> Website Link</a>
-<br>
+## 📝 I Learn
+- HTML Tag and CSS Basics
 
-### ScreenShot:
-<br>
+## 📷 Screenshot
 
+### Pc:
 
-### PC :
-<img src="./Output.png" alt="Landing Page" title="Landing page">
-
-
+<img src="./Output.png" alt="Output">
