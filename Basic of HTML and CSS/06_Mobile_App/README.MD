@@ -1,23 +1,18 @@
-# Basic HTML and CSS ( Project 3 )
-### 💻 Website name : `App Landing Page`
-<br>
-In this project, I create Simple App Landing Page using Basic of HTML and CSS.
+# Project 03 ( App Landing Page )
+[Live-In-Production Demo](https://remarkable-cajeta-5b53f1.netlify.app/)_________________________________________ _Individual Project | Duration: 1-2 hours_ <br>
+- In this project i create simple App landing page using pure HTML and CSS.
 
-Time : 20 min
-<br>
-<br>
+## 👨‍💻 Tech Stack
+Tech : `HTML` `CSS` <br>
 
-### 👨‍💻 Tech Stack:
-* HTML
-* CSS
-<br>
+Tools : `VS Code`
 
-### My Solution Link : <a href="https://remarkable-cajeta-5b53f1.netlify.app/" target="_blank"> Website Link</a>
-<br>
+## 📝 I Learn
+- HTML Tag and CSS Basics
 
-### ScreenShot:
-<br>
+## 📷 Screenshot
 
+### Pc:
 
-### PC :
-<img src="./Output.png" alt="App Landing Page" title="App Landing page">
+<img src="./Output.png" alt="Output">
+
