@@ -1,23 +1,17 @@
-# Basic HTML and CSS ( Project 2 )
-### 💻 Website name : `Coming Soon Template`
-<br>
-In this project, I create Simple Coming Soon Template using Basic of HTML and CSS.
+# Project 01 ( Comming Soon Template )
+[Live-In-Production Demo](https://creative-sunshine-7ba9d7.netlify.app/)_________________________________________ _Individual Project | Duration: 1-2 hours_ <br>
+- In this project i create simple Comming soon template using pure HTML and CSS.
 
-Time : 20 min
-<br>
-<br>
+## 👨‍💻 Tech Stack
+Tech : `HTML` `CSS` <br>
 
-### 👨‍💻 Tech Stack:
-* HTML
-* CSS
-<br>
+Tools : `VS Code`
 
-### My Solution Link : <a href="https://creative-sunshine-7ba9d7.netlify.app/" target="_blank"> Website Link</a>
-<br>
+## 📝 I Learn
+- HTML Tag and CSS Basics
 
-### ScreenShot:
-<br>
+## 📷 Screenshot
 
+### Pc:
 
-### PC :
-<img src="./Output.png" alt="Landing Page" title="Landing page">
+<img src="./Output.png" alt="Output">
